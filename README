@@ -1,0 +1,13 @@
+execution instructions.
+
+gcc main.cpp -o main        
+
+./main
+
+data.csv file will be downloaded.
+
+#COLAB
+
+uplaod the data.csv file
+
+and execute steps in the file.
